@@ -27,10 +27,10 @@ I am an A Level Computer Science, Maths and Physics student.
 -->
 
 <a href="https://github.com/jackm245">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackm245&theme=github_dark&show_icons=true&hide=issues" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=jackm245&theme=github_dark&show_icons=true&hide=issues" />
 </a>
 <a href="https://github.com/jackm245">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackm245&layout=compact&theme=github_dark" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackm245&theme=github_dark" />
 </a>
 
 
