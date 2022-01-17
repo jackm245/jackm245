@@ -23,6 +23,6 @@ I am an A Level Computer Science, Maths and Physics student.
 - ⚡ Fun fact: ...
 -->
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackm245&theme=onedark&show_icons=true)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackm245&theme=github_dark&show_icons=true)
 
 
