@@ -26,8 +26,12 @@ I am an A Level Computer Science, Maths and Physics student.
 - ⚡ Fun fact: ...
 -->
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackm245&theme=github_dark&show_icons=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackm245&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/jackm245">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackm245&theme=github_dark&show_icons=true&hide=issues" />
+</a>
+<a href="https://github.com/jackm245">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackm245&layout=compact&theme=github_dark" />
+</a>
 
 
 
