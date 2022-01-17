@@ -13,7 +13,10 @@
 -->
 I am an A Level Computer Science, Maths and Physics student.
 
-- 🔭 I’m currently working on my CS coursework: Visualising the Riemann Hypothesis
+- 🔭 I’m currently working on:
+  - CS coursework: [Visualising the Riemann Hypothesis](https://www.github.com/jackm245/Riemann-Hypothesis)
+  - My nvim distribution: [jvim](https://www.github.com/jackm245/jvim)
+  - Various [Suckless](https://www.suckless.org/) Utilities
 - 🌱 I’m currently learning Python, C, Lua
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
