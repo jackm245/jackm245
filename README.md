@@ -17,6 +17,7 @@ I am an A Level Computer Science, Maths and Physics student.
   - CS coursework: [Visualising the Riemann Hypothesis](https://www.github.com/jackm245/Riemann-Hypothesis)
   - My nvim distribution: [jvim](https://www.github.com/jackm245/jvim)
   - Various [Suckless](https://www.suckless.org/) Utilities
+  - My [Dotfiles](https://github.com/jackm245/dotfiles)
 - 🌱 I’m currently learning Python, C, Lua
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
