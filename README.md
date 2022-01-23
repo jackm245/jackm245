@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an A Level Computer Science, Maths and Physics student.
+I am a Computer Science, Maths and Physics student.
 
 - 🔭 I’m currently working on:
   - CS coursework: [Visualising the Riemann Hypothesis](https://www.github.com/jackm245/Riemann-Hypothesis)
