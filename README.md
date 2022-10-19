@@ -11,14 +11,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Computer Science, Maths and Physics student.
+I am an Engineering Student and Durham Universirt, taking extra modules in Computer Science.
 
 - 🔭 I’m currently working on:
-  - CS coursework: [Visualising the Riemann Hypothesis](https://www.github.com/jackm245/Riemann-Hypothesis)
+  - An investigation into the Riemann Hypothesis: [Visualising the Riemann Hypothesis](https://www.github.com/jackm245/Riemann-Hypothesis)
   - My nvim distribution: [jvim](https://www.github.com/jackm245/jvim)
   - Various [Suckless](https://www.suckless.org/) Utilities
   - My [Dotfiles](https://github.com/jackm245/dotfiles)
 - 🌱 I’m currently learning Python, C, Lua
+- 👯 I’m looking to collaborate on interesting neovim or python projects
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
