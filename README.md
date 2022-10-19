@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an Engineering Student and Durham Universirt, taking extra modules in Computer Science.
+I am an Engineering Student and Durham University, taking extra modules in Computer Science.
 
 - 🔭 I’m currently working on:
   - An investigation into the Riemann Hypothesis: [Visualising the Riemann Hypothesis](https://www.github.com/jackm245/Riemann-Hypothesis)
