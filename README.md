@@ -16,7 +16,7 @@ I am an Engineering Student and Durham Universirt, taking extra modules in Compu
 - 🔭 I’m currently working on:
   - An investigation into the Riemann Hypothesis: [Visualising the Riemann Hypothesis](https://www.github.com/jackm245/Riemann-Hypothesis)
   - My nvim distribution: [jvim](https://www.github.com/jackm245/jvim)
-  - Various [Suckless](https://www.suckless.org/) Utilities: [dwm](https://www.github.com/jackm245/dwm), [set](https://www.github.com/jackm245/st), [slstatus](https://www.github.com/jackm245/slstatus)
+  - Various [Suckless](https://www.suckless.org/) Utilities: [dwm](https://www.github.com/jackm245/dwm), [st](https://www.github.com/jackm245/st), [slstatus](https://www.github.com/jackm245/slstatus)
   - My [Dotfiles](https://github.com/jackm245/dotfiles)
 - 🌱 I’m currently learning Python, C, Lua
 - 👯 I’m looking to collaborate on interesting neovim or python projects
